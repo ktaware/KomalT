@@ -1,3 +1,5 @@
+
+'Select Yearly Change and Percent Change and also give Total Stock Volume per Ticker.'
 Sub multiple_Stock()
     For Each ws In Worksheets
 
